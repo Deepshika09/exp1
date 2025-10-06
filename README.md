@@ -51,4 +51,4 @@ False:
 
 # Result:
 
-
+thus a smart contract was developed for issuing and verifying academic certificates on Ethereum, preventing forgery and ensuring authenticity.
